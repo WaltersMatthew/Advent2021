@@ -16,3 +16,4 @@ for i in range(len(directions)):
         aim += int(directions[i][-1])
 
 print(distance * depth)
+print(bool('')+20)
